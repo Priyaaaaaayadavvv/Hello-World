@@ -12,6 +12,8 @@ Stay updated with the latest project
 </div>  
 
 #vhdl
+#Implementation of an encoder for error detection using reed-solomon codes
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 use IEEE.NUMERIC_STD.ALL;
